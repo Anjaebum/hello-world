@@ -2,4 +2,4 @@
 Init Repository.
 
 Hello github !
-I'm on study for you !
+I'm on studying for you !
